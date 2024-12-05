@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "910329051918",
+    "firebase_url": "https://arcrun-coba-default-rtdb.firebaseio.com",
+    "project_id": "arcrun-coba",
+    "storage_bucket": "arcrun-coba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910329051918:android:860cf286b6285af39df55f",
+        "android_client_info": {
+          "package_name": "com.belajar.arcruncoba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmnYde8QpjtXFMYAeCkgUfw5C1KbXLvB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910329051918:android:65705e77b2a522239df55f",
+        "android_client_info": {
+          "package_name": "com.belajar.arcruncoba1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmnYde8QpjtXFMYAeCkgUfw5C1KbXLvB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
